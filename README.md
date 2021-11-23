@@ -7,7 +7,7 @@ Actions are a very interesting part because they allow you to prepare pages befo
 Animation Helper provided to allow pages to enter with Slide, Fade, or Zoom animation. More can be added by updating EntryMode enumeration and adding the animation in the AnimationHelper.
 
 
-[![Youtube Tutorial](./Video%20Screenshot.png)]()
+[![Youtube Tutorial](./Video%20Screenshot.png)](https://youtu.be/9MIwIaRUUhc)
 
 ## Patreon Supporters
 Have you been getting value out of these tutorials? Do you believe in LlamAcademy's mission of helping everyone make their game dev dream become a reality? Consider becoming a Patreon supporter and get your name added to this list, as well as other cool perks.

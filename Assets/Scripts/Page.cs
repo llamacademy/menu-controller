@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -70,6 +69,8 @@ public class Page : MonoBehaviour
 
     public void Exit(bool PlayAudio)
     {
+		PrePopAction?.Invoke();
+
         switch (ExitMode)
         {
             case EntryMode.SLIDE:
